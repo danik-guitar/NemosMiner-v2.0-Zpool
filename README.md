@@ -6,3 +6,10 @@ Auto Downloads Miners /
 thankyou to aaronsace for devoloping and maintaining "MultiPoolMiner"
 this is a free project feel free to donate be much appreciated: 
 1KNtVPZwrVDUbmWNGT2ECv8CtGyjYtfngP
+
+Немос майнер 2.1 Zpool
+Автоматически переключает на более профитные алгоритмы.
+Сперва проводит тесты алгоритмов для определения скоростей.
+Сам подгружает майнеры.
+
+Всё что вам нужно что бы начать работу: в start.bat прописать свой кошелёк биткоин и всё. 
