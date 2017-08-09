@@ -13,3 +13,4 @@ this is a free project feel free to donate be much appreciated:
 Сам подгружает майнеры.
 
 Всё что вам нужно что бы начать работу: в start.bat прописать свой кошелёк биткоин и всё. 
+За русское описание можете мне донатить битки сюда 1KNtVPZwrVDUbmWNGT2ECv8CtGyjYtfngP
