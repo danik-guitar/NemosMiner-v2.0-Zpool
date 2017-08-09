@@ -29,7 +29,7 @@ $Commands = [PSCustomObject]@{
     "skein" = "" #Skein
     #"timetravel" = "" #Timetravel
     "c11" = " -i 21" #C11
-    #"x11evo" = "" #X11evo
+    "x11evo" = "" #X11evo
     "x17" = " -i 21" #X17
     #"yescrypt" = "" #Yescrypt
 }
