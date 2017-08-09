@@ -7,7 +7,7 @@ thankyou to aaronsace for devoloping and maintaining "MultiPoolMiner"
 this is a free project feel free to donate be much appreciated: 
 1KNtVPZwrVDUbmWNGT2ECv8CtGyjYtfngP
 
-Немос майнер 2.1 , работает на пуле Zpool
+Немос майнер 2.1 , работает на пуле Zpool / Немос майнер - это аналог найсхэша, но более профитный !!!
 Автоматически переключает на более профитные алгоритмы.
 Сперва проводит тесты алгоритмов для определения скоростей.
 Сам подгружает майнеры.
