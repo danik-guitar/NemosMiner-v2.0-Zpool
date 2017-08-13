@@ -14,23 +14,25 @@ $Commands = [PSCustomObject]@{
     #"ethash" = "" #Ethash
     #"groestl" = "" #Groestl
     #"hmq1725" = "" #hmq1725
-    "keccak" = ",d=576 -i 29" #Keccak
-    "lbry" = "" #Lbry
+    #"keccak" = ",d=576 -i 29" #Keccak
+    "lbry" = " -i 25" #Lbry
     "lyra2v2" = "" #Lyra2RE2
     #"lyra2z" = "" #Lyra2z
-    "myr-gr" = "" #MyriadGroestl
-    "neoscrypt" = " -i 15" #NeoScrypt
+    "myr-gr" = " -i 25" #MyriadGroestl
+    #"neoscrypt" = " -i 15" #NeoScrypt
     "nist5" = "" #Nist5
     #"pascal" = "" #Pascal
     #"qubit" = "" #Qubit
     #"scrypt" = "" #Scrypt
-    #"sia" = "" #Sia
-    "sib" = " -i 21" #Sib
+    "sia" = "" #Sia
+    "sib" = " -i 23" #Sib
     "skein" = "" #Skein
     #"timetravel" = "" #Timetravel
     "c11" = " -i 21" #C11
-    "x11evo" = "" #X11evo
+    "x11" = "" #X11evo
+	"x11evo" = ""
     "x17" = " -i 21" #X17
+	"x13" = ""
     #"yescrypt" = "" #Yescrypt
 }
 
