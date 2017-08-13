@@ -1,5 +1,6 @@
 {
     "skunk":  "Skunk",
+	"xevan":"xevan",
     "jha":  "Jha",
     "blakecoin":  "Blakecoin",
     "c11":  "C11",
@@ -15,6 +16,7 @@
     "lbry":  "Lbry",
     "myrgr":  "MyriadGroestl",
     "lyra2v2":  "Lyra2RE2",
+	"lyra2v2":  "Lyra2v2",
     "maxcoin":  "Keccak",
     "blake2s":  "Blake2s",
     "x11evo":  "X11evo",
@@ -34,11 +36,12 @@
     "pascal":  "Pascal",
     "bitcore":  "Bitcore",
     "x11":  "X11",
-    "lyra2rev2":  "Lyra2RE2",
+    "lyra2re2":  "Lyra2RE2",
     "ethash":  "Ethash",
     "skeincoin":  "Skein",
     "groestlcoin":  "Groestl",
+	"myr-gr":"myr-gr",
     "cryptonight":  "Cryptonight",
     "zuikkis":  "Scrypt",
-    "nist5":  "Nist5"
-}
+    "nist5":  "Nist5",
+	"Timetravel10":"Timetravel10"}
