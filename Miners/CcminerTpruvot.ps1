@@ -5,8 +5,8 @@ $Uri = "https://github.com/tpruvot/ccminer/releases/download/v2.0-tpruvot/ccmine
 
 $Commands = [PSCustomObject]@{
     "bitcore" = "" #Bitcore
-    "blake2s" = "" #Blake2s
-    "blakecoin" = "" #Blakecoin
+    #"blake2s" = "" #Blake2s
+    #"blakecoin" = "" #Blakecoin
     #"vanilla" = "" #BlakeVanilla
     #"cryptonight" = "" #Cryptonight
     #"decred" = "" #Decred
@@ -15,7 +15,7 @@ $Commands = [PSCustomObject]@{
     #"groestl" = "" #Groestl
     "hmq1725" = "" #hmq1725
     #"keccak" = "" #Keccak
-    "lbry" = "" #Lbry
+    #"lbry" = " -i 25" #Lbry
     #"lyra2v2" = "" #Lyra2RE2
     #"lyra2z" = "" #Lyra2z
     #"myr-gr" = "" #MyriadGroestl
@@ -25,13 +25,13 @@ $Commands = [PSCustomObject]@{
     #"qubit" = "" #Qubit
     #"scrypt" = "" #Scrypt
     #"sia" = "" #Sia
-    "sib" = "" #Sib
+    #"sib" = " -i 23" #Sib
     #"skein" = "" #Skein
     "timetravel" = "" #Timetravel
     #"x11" = "" #X11
     #"veltor" = "" #Veltor
-    "x11evo" = "" #X11evo
-    "x17" = "" #X17
+    #"x11evo" = "" #X11evo
+    #"x17" = "" #X17
     #"yescrypt" = "" #Yescrypt
 }
 
