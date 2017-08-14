@@ -1,15 +1,15 @@
 . .\Include.ps1
 
 $Path = ".\Bin\NVIDIA-TPruvot\ccminer-x64.exe"
-$Uri = "https://github.com/tpruvot/ccminer/releases/download/v2.0-tpruvot/ccminer-2.0-release-x64-cuda-8.0.7z"
+$Uri = "https://github.com/tpruvot/ccminer/releases/download/v2.2-tpruvot/ccminer-x64-2.2.7z"
 
 $Commands = [PSCustomObject]@{
-    "bitcore" = "" #Bitcore
+    #"bitcore" = "" #Bitcore
     #"blake2s" = "" #Blake2s
     #"blakecoin" = "" #Blakecoin
     #"vanilla" = "" #BlakeVanilla
     #"cryptonight" = "" #Cryptonight
-    #"decred" = "" #Decred
+    "decred" = "" #Decred
     #"equihash" = "" #Equihash
     #"ethash" = "" #Ethash
     #"groestl" = "" #Groestl
@@ -19,7 +19,7 @@ $Commands = [PSCustomObject]@{
     #"lyra2v2" = "" #Lyra2RE2
     #"lyra2z" = "" #Lyra2z
     #"myr-gr" = "" #MyriadGroestl
-    "neoscrypt" = "" #NeoScrypt
+    #"neoscrypt" = "" #NeoScrypt
     #"nist5" = "" #Nist5
     #"pascal" = "" #Pascal
     #"qubit" = "" #Qubit
@@ -27,12 +27,13 @@ $Commands = [PSCustomObject]@{
     #"sia" = "" #Sia
     #"sib" = " -i 23" #Sib
     #"skein" = "" #Skein
-    "timetravel" = "" #Timetravel
+    #"timetravel" = "" #Timetravel
     #"x11" = "" #X11
     #"veltor" = "" #Veltor
     #"x11evo" = "" #X11evo
     #"x17" = "" #X17
     #"yescrypt" = "" #Yescrypt
+    "skunk" = "" #Skunk
 }
 
 $Name = (Get-Item $script:MyInvocation.MyCommand.Path).BaseName
